@@ -1,0 +1,9 @@
+i
+datos-entrada/file-no_existe
+i
+datos-entrada/file-import02
+1
+5
+Cargo Tatooine
+1
+q

@@ -1,0 +1,5 @@
+l
+salida-obtenida/file-save01.bin
+y
+1
+q

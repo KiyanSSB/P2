@@ -1,0 +1,38 @@
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+{Cargo Tatooine: 1199 (6000), 4 (12), 968
+[2 160:170][5 235:165][4 214:183][3 590:450]
+}
+{Cargo Alderaan: 1200 (5000), 1 (15), 800
+[1 1200:800]
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: 

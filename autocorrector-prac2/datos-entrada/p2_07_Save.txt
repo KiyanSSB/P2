@@ -1,0 +1,39 @@
+2
+1200
+800
+2
+160
+170
+2
+590
+450
+2
+214
+183
+2
+235
+165
+4
+Cargo Tatooine
+12
+6000
+4
+Cargo Alderaan
+15
+5000
+1
+6
+2
+Cargo Tatooine
+6
+5
+Cargo Tatooine
+6
+4
+Cargo Tatooine
+1
+s
+/tmp/directorio_inexistente/file-save01.bin
+s
+salida-obtenida/file-save01.bin
+q

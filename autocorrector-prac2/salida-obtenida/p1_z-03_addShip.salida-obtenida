@@ -1,0 +1,171 @@
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+{s1: 0 (500), 0 (5), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+{s1: 0 (500), 0 (5), 0
+
+}
+{s2: 0 (1000), 0 (10), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Error: wrong maximum number of containers
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: Error: wrong maximum weight
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Error: wrong ship name
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+{s1: 0 (500), 0 (5), 0
+
+}
+{s2: 0 (1000), 0 (10), 0
+
+}
+{2p2: 0 (500), 0 (5), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: 

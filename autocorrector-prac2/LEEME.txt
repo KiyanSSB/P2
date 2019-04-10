@@ -1,0 +1,96 @@
+Programación 2 - Autocorrector práctica 2
+=========================================
+
+Para pasar el autocorrector, hay que copiar el fichero de la práctica
+(prac2.cc) en el mismo directorio y ejecutar desde el terminal:
+
+./autocorrectorP2p2.sh
+
+El proceso de corrección sigue los siguientes pasos:
+
+1- Se generan y compilan unos programas auxiliares (mata y comparefiles)
+2- Se compila la práctica
+3- Se ejecutan las pruebas del directorio "datos-entrada" y se almacenan los
+resultados en el directorio "salida-obtenida". Se compara la salida obtenida con
+la salida correcta (generada con la práctica de los profesores), que se 
+encuentra en el directorio "salida-correcta-esperada".
+
+El autocorrector usa dos programas auxiliares: "mata", para parar la
+práctica en caso de que se cuelgue, y "comparefiles" para comparar dos
+ficheros de texto sin tener en cuenta espacios, guiones ni saltos de linea.
+Estos programas son generados y compilados por el propio autocorrector.
+
+-----------------------------------------------------------
+
+Si alguna prueba da un error cuando se comprueba la salida, se mostrará un
+mensaje parecido al del siguiente ejemplo:
+
+Prueba 1...
+35c35
+< Error, wrong ID.
+---
+> Error, wrong ID
+
+Esto significa que el programa ha obtenido un resultado distinto del
+esperado. En este ejemplo, el error se ha producido en la línea 35. La
+primera línea (<) se corresponde con la salida de tu práctica, y la
+segunda (>) con la salida correcta que debería haber producido.
+
+El autocorrector ignora las diferencias en los blancos, pero cuando hay
+un error y se muestran las diferencias entre ambas salidas, también aparecen
+como es lógico las diferencias en espacios en blanco, pero no son
+relevantes; si aparece un mensaje de error, se debe a diferencias en
+otros caracteres que no son espacios en blanco.
+
+-----------------------------------------------------------
+
+NOTA IMPORTANTE: Para que el resultado del autocorrector sea fiable es 
+necesario tener un sistema operativo Linux con valgrind instalado.  En 
+caso de no tener elprograma valgrind, puedes instalarlo mediante la 
+siguiente instrucción:
+
+sudo apt-get install valgrind
+
+-----------------------------------------------------------
+
+Cómo añadir pruebas nuevas al autocorrector
+
+¿Piensas que las pruebas del autocorrector son sospechosamente sencillas?
+¿Crees que los profesores guardamos las pruebas difíciles para la corrección
+de la práctica? Efectivamente, tienes razón, las mejores pruebas no son las
+del autocorrector. En este documento te explicamos cómo añadir pruebas
+nuevas al autocorrector, hechas por ti, en unos sencillos pasos:
+
+1) Estudia las pruebas del autocorrector (están en el directorio
+"datos-entrada") y piensa qué casos no hemos probado.
+
+2) Edita un fichero de texto (p.ej. miprueba.txt) con los datos que meterías
+por teclado. Por ejemplo (los comentarios no deben aparecer en el fichero,
+son sólo para que veas lo que hace la prueba):
+
+2                    // 2- Add container
+1000                 // weight
+100                  // value
+4                    // 4- Add ship
+Millenium Falcon     // name
+5                    // max. containers
+2000                 // max. weight
+1                    // 1- Info base
+6                    // 6- Manual distribution
+1                    // container id
+Millenium Falcon     // ship name
+1                    // 1- Info base
+q                    // q- Quit
+
+3) Una vez has escrito la prueba en un fichero y lo has metido en
+"datos-entrada", debes obtener la salidacorrecta para dicha prueba, para lo
+que debes utilizar el ejecutable de la práctica publicado en la web de la
+asignatura (supongamos que lo has llamado "prac1-oficial"), de esta manera:
+
+./prac1-oficial < datos-entrada/miprueba.txt > salida-correcta-esperada/miprueba.salida-correcta-esperada
+
+4) Ejecuta el autocorrector y comprueba que tu práctica va bien con esa prueba.
+
+5) Repite estos pasos y añade todas las pruebas que puedas al autocorrector.
+cuantas más pruebas diferentes añadas, menor es la probabilidad de que tu
+práctica falle con el corrector definitivo.

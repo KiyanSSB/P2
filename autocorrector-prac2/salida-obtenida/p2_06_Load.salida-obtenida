@@ -1,0 +1,93 @@
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Enter filename:1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Enter filename:Confirm? (y/n):Confirm? (y/n):1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Enter filename:Confirm? (y/n):1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 1200:800]
+[3 590:450]
+Ships: 
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: 

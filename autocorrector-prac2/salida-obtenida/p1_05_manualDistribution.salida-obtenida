@@ -1,0 +1,205 @@
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Container weight: Container value: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Container weight: Container value: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 500:678]
+[2 887:900]
+Ships: 
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: Ship max. containers: Ship max. weight: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 500:678]
+[2 887:900]
+Ships: 
+{p2p: 0 (1000), 0 (10), 0
+
+}
+{p3p: 0 (500), 0 (7), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Container id: Error: wrong container id
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Container id: Ship name: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 500:678]
+Ships: 
+{p2p: 887 (1000), 1 (10), 900
+[2 887:900]
+}
+{p3p: 0 (500), 0 (7), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Container id: Ship name: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+Ships: 
+{p2p: 887 (1000), 1 (10), 900
+[2 887:900]
+}
+{p3p: 500 (500), 1 (7), 678
+[1 500:678]
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: 

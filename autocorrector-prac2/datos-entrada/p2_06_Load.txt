@@ -1,0 +1,12 @@
+l
+datos-entrada/file-no_existe
+l
+datos-entrada/file-load01.bin
+k
+n
+1
+l
+datos-entrada/file-load01.bin
+y
+1
+q

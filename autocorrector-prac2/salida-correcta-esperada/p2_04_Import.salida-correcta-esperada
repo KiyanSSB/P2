@@ -1,0 +1,110 @@
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Enter filename:Error: can't open file
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Enter filename:Error: wrong maximum number of containers
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 1200:800]
+[2 100:125]
+[3 500:300]
+[4 1400:120]
+Ships: 
+{Cargo Tatooine: 0 (6000), 0 (12), 0
+
+}
+{Cargo Alderaan: 0 (16000), 0 (23), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Ship name: 1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: Name: Logistic Center
+Containers: 
+[1 1200:800]
+[2 100:125]
+[3 500:300]
+[4 1400:120]
+Ships: 
+{Cargo Alderaan: 0 (16000), 0 (23), 0
+
+}
+1- Info base
+2- Add container
+3- Remove container
+4- Add ship
+5- Remove ship
+6- Manual distribution
+7- Automatic distribution
+8- Unassign container
+9- Clear assignations
+i- Import data
+x- Export data
+l- Load base
+s- Save base
+q- Quit
+Option: 

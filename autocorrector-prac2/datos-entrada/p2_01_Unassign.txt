@@ -1,0 +1,40 @@
+2
+752
+137
+2
+220
+608
+2
+961
+739
+2
+1027
+204
+2
+761
+171
+4
+ship number one
+20
+5900
+4
+ship number two
+6
+4458
+4
+ship number three
+10
+2755
+1
+7
+1
+8
+ship two
+8
+ship number two
+3
+8
+ship number two
+2
+1
+q
